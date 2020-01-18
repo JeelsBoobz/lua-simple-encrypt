@@ -8,7 +8,7 @@ Ask user to input the decrypt key. XOR each bytes with the given key. eval the d
 
 Open the web page with browser. Select the file and press the button. The encrypted file will be downloaded.
 
-[Try it Online](https://ganlvtech.github.io/lua-simple-encrypt/)
+[Try it Online](https://jeelsboobz.github.io/lua-simple-encrypt/)
 
 ## Build
 
